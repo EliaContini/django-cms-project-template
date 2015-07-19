@@ -1,0 +1,14 @@
+#
+# Pesce Sole Sub Website
+#
+# Author  : Elia Contini <elia.contini@gmail.com>
+# Created : 11 Jul 2015
+#
+# Required packages
+
+django==1.7.9
+django-cms==3.1.2
+
+# plugins
+aldryn-events
+aldryn-newsblog
